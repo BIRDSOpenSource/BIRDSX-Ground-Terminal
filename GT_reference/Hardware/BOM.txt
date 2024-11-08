@@ -1,0 +1,17 @@
+BIRDS-X Ground Terminal Reference #2
+Bill of Materials as october 2024
+
+Raspberry Pi 3B+ 				¥ 17,980 
+(Case+ SD + fan +USB adapter + power supply)		
+DigiRig						¥ 14,420 
+USB A to C cable with ferrite			¥  6,475 
+Digirig Yaesu FT-8xx cable			¥ 10,306 
+Yaesu FTM-300 transceiver			¥ 41,800
+Jackery 708 Power Bank				¥ 82,057
+Waterproof Case HC-3520				¥  8,700
+Wired Keyboard with mousepad			¥  7,394
+Arrow 146/437-14BP antenna			U$D  213
+
+
+
+
